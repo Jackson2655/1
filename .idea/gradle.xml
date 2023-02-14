@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/P0081viewbyid" />
+            <option value="$PROJECT_DIR$/P0091onclickbuttons" />
+            <option value="$PROJECT_DIR$/P0101listener" />
+            <option value="$PROJECT_DIR$/P0102activitylistener" />
+            <option value="$PROJECT_DIR$/P0111resvalues" />
+            <option value="$PROJECT_DIR$/P0121logandmess" />
+            <option value="$PROJECT_DIR$/P0131menusimple" />
+            <option value="$PROJECT_DIR$/P0141menuadv" />
+            <option value="$PROJECT_DIR$/P0151contextmenu" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p0031firstproject" />
+            <option value="$PROJECT_DIR$/p0041basicview" />
+            <option value="$PROJECT_DIR$/p0051layoutfiles" />
+            <option value="$PROJECT_DIR$/p0061layouts" />
+            <option value="$PROJECT_DIR$/p0072layoutprop" />
+            <option value="$PROJECT_DIR$/svoep0141" />
+            <option value="$PROJECT_DIR$/svoep0151" />
+            <option value="$PROJECT_DIR$/svoep0151v2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
